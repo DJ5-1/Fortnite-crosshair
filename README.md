@@ -6,3 +6,4 @@ pip install tkinter
 pip install tk
 pip install Pillow 9.3
 ```
+And install all these files
